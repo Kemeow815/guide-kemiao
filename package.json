@@ -1,8 +1,8 @@
 {
   "name": "home",
   "author": "克喵爱吃卤面",
-  "github": "https://github.com/liuchenyang0703/guide/",
-  "home": "https://liuchenyang0703.github.io",
+  "github": "https://github.com/Kemeow815/guide-kemiao/",
+  "home": "https://guide-kemiao.vercel.app/",
   "private": true,
   "version": "4.1.4",
   "type": "module",

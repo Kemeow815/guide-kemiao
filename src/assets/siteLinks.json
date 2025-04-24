@@ -2,61 +2,46 @@
   {
     "icon": "Blog",
     "name": "个人博客",
-    "link": "https://liuchenyang.top"
-  },
-  {
-    "icon": "CompactDisc",
-    "name": "QQ音乐",
-    "link": "https://y.qq.com/n/ryqq/singer/002w4tXt2LlT2T"
+    "link": "https://blog-v3.kemeow.top"
   },
   {
     "icon": "CompactDisc",
     "name": "网易云音乐",
-    "link": "https://music.163.com/#/artist?id=50843863"
-  },
-  {
-    "icon": "Compass",
-    "name": "起始页",
-    "link": "https://liuchenyang0703.github.io/nav/"
-  },
-  {
-    "icon": "Book",
-    "name": "网址集",
-    "link": "https://adzhp.cc/#term-340"
+    "link": "https://music.163.com/#/playlist?id=2607560262"
   },
   {
     "icon": "Fire",
     "name": "今日热榜",
-    "link": "https://tophub.today/"
+    "link": "https://dailyhot.kemeow.cn/"
   },
   {
-    "icon": "LaptopCode",
-    "name": "奇怪的字体",
-    "link": "https://liuchenyang0703.github.io/weird-fonts/"
+    "icon": "Teamspeak",
+    "name": "TG 说说",
+    "link": "https://shuoshuo.kemiao.online/"
   },
   {
-    "icon": "ClockRegular",
-    "name": "时间计算器",
-    "link": "https://liuchenyang0703.github.io/time/"
+    "icon": "Teamspeak",
+    "name": "Memos 说说",
+    "link": "https://memos.kemiaosw.top/"
+  },
+  {
+    "icon": "WatchmanMonitoring",
+    "name": "网站监测",
+    "link": "https://montor.kemiaofx.cn/"
+  },
+  {
+    "icon": "Tv",
+    "name": "影视播放器",
+    "link": "https://tv.kemeow.top"
   },
   {
     "icon": "Github",
     "name": "我的Github主页",
-    "link": "https://github.com/liuchenyang0703"
+    "link": "https://github.com/Kemeow815"
   },
   {
     "icon": "Github",
     "name": "我的Github项目",
-    "link": "https://github.com/liuchenyang0703?tab=repositories"
-  },
-  {
-    "icon": "Github",
-    "name": "个人推荐页",
-    "link": "https://liuchenyang0703.github.io/guide/"
-  },
-  {
-    "icon": "Github",
-    "name": "项目引导页",
-    "link": "https://liuchenyang0703.github.io/"
+    "link": "https://github.com/Kemeow815?tab=repositories"
   }
 ]

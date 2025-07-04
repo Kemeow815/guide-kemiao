@@ -1,18 +1,38 @@
 [
   {
     "icon": "Blog",
-    "name": "个人博客",
+    "name": "主博客",
     "link": "https://blog-v3.kemeow.top"
   },
   {
-    "icon": "CompactDisc",
-    "name": "网易云音乐",
-    "link": "https://music.163.com/#/playlist?id=2607560262"
+    "icon": "Blogger",
+    "name": "次博客",
+    "link": "https://boke.kemeow.top/"
+  },
+  {
+    "icon": "Music",
+    "name": "音乐",
+    "link": "https://music.kemiao.online"
   },
   {
     "icon": "Fire",
     "name": "今日热榜",
-    "link": "https://dailyhot.kemeow.cn/"
+    "link": "https://news.kemiao.online/"
+  },
+  {
+    "icon": "Microblog",
+    "name": "Ech0",
+    "link": "https://pyq.050815.xyz"
+  },
+  {
+    "icon": "Microblog",
+    "name": "IceFox",
+    "link": "https://pyq.kemiao.online"
+  },
+  {
+    "icon": "Microblog",
+    "name": "Moment",
+    "link": "https://moment.050815.xyz"
   },
   {
     "icon": "Teamspeak",
@@ -22,7 +42,7 @@
   {
     "icon": "Teamspeak",
     "name": "Memos 说说",
-    "link": "https://memos.kemiaosw.top/"
+    "link": "https://moment.kemiaosw.top/"
   },
   {
     "icon": "WatchmanMonitoring",
